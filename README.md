@@ -4,7 +4,7 @@ I will be covering all the following topics
 
 Learning resources.
 
-1. DOM
+1. DOM //Document Object Model
     - https://bitsofco.de/what-exactly-is-the-dom/
 
 
