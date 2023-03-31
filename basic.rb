@@ -11,5 +11,6 @@ musicians = ['David Gilmour', 'Roger Waters', 'Richard Wright', 'Nick Mason']
 count_musician= musicians.select do |musician|
     musician.start_with?('R')
     
+    
 end 
 p count_musician
