@@ -4,4 +4,14 @@ ol {
   list-style-position: inside;
 }
 
+p {
+  color: red;
+}
+.note {
+  font-size: 20px;
+}
+#id-selector-demo {
+  color: green;
+}
+
 /* Write your CSS below, don't change the rules above. */
